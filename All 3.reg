@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\MIME\Database\Content Type\image/heif]
+"Extension"=".png"
+[HKEY_CLASSES_ROOT\MIME\Database\Content Type\image/heic]
+"Extension"=".png"
+[HKEY_CLASSES_ROOT\MIME\Database\Content Type\image/webp]
+"Extension"=".png"
